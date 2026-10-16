@@ -88,12 +88,11 @@ http://localhost:8501
 
 ## How to use the app
 
-1. Choose a role from **Smart Role Library**.
-2. Use **Manage role library** to add a custom role or remove an unneeded one.
-3. Review and edit the job description for the selected role.
-4. Upload the candidate's resume as a PDF or TXT file.
-5. Click **Analyze candidate**.
-6. Review the match score, hiring prediction, candidate summary, and missing role-specific terms.
+1. **Step 1 · Role Configuration:** Select an active job title from the built-in library or manage custom templates.
+2. **Step 2 · Criteria Setup:** Refine the overview, mandatory qualifications (non-negotiable), and preferred strengths.
+3. **Step 3 · Candidate Input:** Upload one or multiple candidate resumes in PDF or TXT format.
+4. **Step 4 · Screen & Rank:** Click **Screen & Rank Candidates** to run batch pattern matching.
+5. **Step 5 · Candidate Insights:** Explore high-level metrics, review the ranked comparison table, download the shortlist CSV, and drill down into individual candidate profiles with matched and missing skills.
 
 ## Troubleshooting
 
